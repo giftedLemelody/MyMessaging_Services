@@ -1,0 +1,11 @@
+C:\Users\Gift Mokoena\Receive\bin\Debug\netcoreapp2.1\Receive.deps.json
+C:\Users\Gift Mokoena\Receive\bin\Debug\netcoreapp2.1\Receive.runtimeconfig.json
+C:\Users\Gift Mokoena\Receive\bin\Debug\netcoreapp2.1\Receive.runtimeconfig.dev.json
+C:\Users\Gift Mokoena\Receive\bin\Debug\netcoreapp2.1\Receive.dll
+C:\Users\Gift Mokoena\Receive\bin\Debug\netcoreapp2.1\Receive.pdb
+C:\Users\Gift Mokoena\Receive\obj\Debug\netcoreapp2.1\Receive.csprojAssemblyReference.cache
+C:\Users\Gift Mokoena\Receive\obj\Debug\netcoreapp2.1\Receive.csproj.CoreCompileInputs.cache
+C:\Users\Gift Mokoena\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfoInputs.cache
+C:\Users\Gift Mokoena\Receive\obj\Debug\netcoreapp2.1\Receive.AssemblyInfo.cs
+C:\Users\Gift Mokoena\Receive\obj\Debug\netcoreapp2.1\Receive.dll
+C:\Users\Gift Mokoena\Receive\obj\Debug\netcoreapp2.1\Receive.pdb
